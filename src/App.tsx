@@ -39,7 +39,6 @@ function App() {
 
   return (
     <>
-    {JSON.stringify(config)}
       <div
         dangerouslySetInnerHTML={{
           __html: `
